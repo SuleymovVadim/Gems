@@ -1,0 +1,3 @@
+﻿  Gem.cpp
+C:\Users\79149\source\repos\Gems\Gem.cpp(180,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Gems.vcxproj -> C:\Users\79149\source\repos\Gems\x64\Debug\Gems.exe
